@@ -1,0 +1,57 @@
+body {
+      background-color: rgb(218, 198, 172);
+      text-align: center;
+    }
+
+
+.idantifikatsyon {
+    font-size:  35px;
+    font-weight: bold;
+    text-decoration: underline;
+    color: rgb(165, 61, 42);
+}
+
+
+.not {
+    color: rgba(184, 241, 12, 0.945);
+    font-size:  25px;
+    font-weight: bold;
+}
+
+
+button{
+    padding: 5px;
+    border: 3px double rgba(155, 211, 133, 0.959);
+    background-color: rgb(243, 140, 92);
+    font-size:20px ;
+    color: rgba(243, 234, 243, 0.925);
+} 
+
+.button {
+    text-align: right;
+}
+
+.card {
+    margin: 50px 50px;
+    width:300px;
+    height: 750px;
+    padding: 50px;
+    border: 20px solid rgba(235, 227, 225, 0.37);
+    background-color: rgba(211, 87, 16, 0.801);
+    font-size: 25px;
+    border-radius: 15px;   
+
+}
+  
+.image {
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+}
+
+
+
+
+
+
+
