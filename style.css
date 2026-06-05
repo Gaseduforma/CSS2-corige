@@ -32,10 +32,10 @@ button{
 }
 
 .card {
-    margin: 50px 50px;
+    margin: 50px;
     width:450px;
     height: 750px;
-    padding: 20px;
+    padding: 50px;
     border: 20px solid rgba(235, 227, 225, 0.37);
     background-color: rgba(211, 87, 16, 0.801);
     font-size: 25px;
